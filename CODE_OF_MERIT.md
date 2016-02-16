@@ -5,12 +5,11 @@ the paramount duty of the project's participants. All other activities within
 the project are trivial in comparision. Those not within the scope of project
 are irrelevant. 
 
-3. The merit of contributions will be judged on their value to the project,
- either by the introduction and implementations or their advantage over 
- existing but inferior ones. More recent but lesser implementations will 
- not supersede older but superior implementations. 
+2. The merit of contributions will be judged by their value to the project's,
+either by their introduction and implementation of new featuresets and solutions, 
+or their evolutive advantage over existing ones. 
 
-2. Individual characteristics, both immutable and chosen, are irrelevant 
+3. Individual characteristics, both immutable and chosen, are irrelevant 
 in the scope of the project  and will not be taken into account concerning 
 your value or that of your contribution to the project, which will be 
 judged on their merits or lack thereof.
@@ -20,4 +19,4 @@ project and have ultimate decision-making power over the project in all
 respects they choose, be they technical, structural, organizational, 
 personal or otherwise. 
 
-5. Participation on the project equates to agreement of this Code of Merit.
+5. Participation on the project equates to agreement of this Code of Merit. 
